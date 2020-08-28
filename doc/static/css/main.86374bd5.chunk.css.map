@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,aACE,WAAY,CACZ,YACF,CAEA,gBACE,WAAY,CACZ,YACF,CAEA,EACE,WACF","file":"main.86374bd5.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.project-img {\n  width: 600px;\n  height: 400px;\n}\n\n.project-img-lp {\n  width: 350px;\n  height: 250px;\n}\n\np {\n  margin: 50px;\n}\n"]}
