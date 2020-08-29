@@ -7,7 +7,7 @@ import Image from "react-bootstrap/Image";
 export default function Experience() {
   return (
     <div>
-      <Image src="img/experience.jpg" fluid />
+      <Image src="/portfolio/img/experience.jpg" fluid />
       <Container>
         <Row>
           <Col>

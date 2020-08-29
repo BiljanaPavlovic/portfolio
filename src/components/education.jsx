@@ -7,7 +7,7 @@ import Image from "react-bootstrap/Image";
 export default function Education() {
   return (
     <div>
-      <Image src="img/education.jpg" fluid />
+      <Image src="/portfolio/img/education.jpg" fluid />
       <Container>
         <Row>
           <Col>

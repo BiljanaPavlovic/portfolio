@@ -25,7 +25,7 @@ export default function Profile() {
           </Col>
           <Col xs={6} md={4}>
             <Link to="/">
-              <Image src="img/profil.png" roundedCircle />
+              <Image src="/portfolio/img/profil.png" roundedCircle />
             </Link>
           </Col>
         </Row>

@@ -18,7 +18,11 @@ export default function Birtije() {
           </Col>
           <Col>
             <a href="https://birtije.000webhostapp.com/" target="_blanc">
-              <img src="img/4.png" alt="project-img" className="project-img" />
+              <img
+                src="/portfolio/img/4.png"
+                alt="project-img"
+                className="project-img"
+              />
             </a>
           </Col>
         </Row>

@@ -10,7 +10,11 @@ export default function Staznam() {
         <Row>
           <Col>
             <a href="https://js-samuraji.github.io/staznam.rs/" target="_blanc">
-              <img src="img/5.png" alt="project-img" className="project-img" />
+              <img
+                src="/portfolio/img/5.png"
+                alt="project-img"
+                className="project-img"
+              />
             </a>
           </Col>
           <Col>

@@ -21,7 +21,7 @@ export default function LandingPages() {
               target="_blanc"
             >
               <img
-                src="img/1.png"
+                src="/portfolio/img/1.png"
                 alt="project-img"
                 className="project-img-lp"
               />
@@ -39,7 +39,7 @@ export default function LandingPages() {
               target="_blanc"
             >
               <img
-                src="img/2.png"
+                src="/portfolio/img/2.png"
                 alt="project-img"
                 className="project-img-lp"
               />
@@ -57,7 +57,7 @@ export default function LandingPages() {
               target="_blanc"
             >
               <img
-                src="img/3.png"
+                src="/portfolio/img/3.png"
                 alt="project-img"
                 className="project-img-lp"
               />
