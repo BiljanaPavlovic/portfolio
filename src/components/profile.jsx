@@ -3,6 +3,7 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Image from "react-bootstrap/Image";
+import { Link } from "react-router-dom";
 
 export default function Profile() {
   return (
@@ -23,7 +24,9 @@ export default function Profile() {
             </p>
           </Col>
           <Col xs={6} md={4}>
-            <Image src="img/profil.png" roundedCircle />
+            <Link to="/">
+              <Image src="img/profil.png" roundedCircle />
+            </Link>
           </Col>
         </Row>
       </Container>

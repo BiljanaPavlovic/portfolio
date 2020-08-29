@@ -15,12 +15,12 @@ export default function Staznam() {
           </Col>
           <Col>
             <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse
-              repellat, quasi non sunt laboriosam nihil eveniet magni explicabo
-              fugit quam tenetur. Nemo a aperiam praesentium quidem rerum quos
-              minima dolores hic assumenda, illo asperiores tempora deleniti
-              nulla laudantium modi ea voluptatibus tempore est inventore cum.
-              Dolorem nihil atque cupiditate provident.
+              Kao deo tima sam radila na ovom projektu, deo sajta koji je bio
+              moje zaduženje je arhiva, kao i veći deo dizajna sajta.
+            </p>
+            <p>
+              Korišćene tehnologije su React za front, Node za back,
+              React-Bootstrap za dizajn
             </p>
           </Col>
         </Row>
