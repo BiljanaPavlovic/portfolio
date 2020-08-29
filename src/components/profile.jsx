@@ -21,7 +21,7 @@ export default function Profile() {
               mogućnost da ispoljim svoj pun potencijal i iskažem svoju
               kreativnost. Želim da se bavim front-end programiranjem, da
               osmišljavam izgled i funkcije web stranica i drugih aplikacija sa
-              java skriptom.
+              JavaScriptom.
             </p>
           </Col>
           <Col xs={6} md={4}>
