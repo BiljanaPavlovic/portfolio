@@ -43,7 +43,7 @@ export default function Footer() {
         zabiljanupavlovic@gmail.com
       </p>
 
-      <p> &copy; Made by Biljana Pavlovic</p>
+      <p> &copy; Made by Biljana Pavlovic 2020.</p>
     </div>
   );
 }

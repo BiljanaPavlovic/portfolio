@@ -3,6 +3,7 @@
 .App {
   text-align: center;
   font-family: "Fredoka One", cursive;
+  background-color: whitesmoke;
 }
 
 .headline {
@@ -58,18 +59,23 @@ p {
   width: 100px;
   height: 100px;
 }
+.exp-img-lg {
+  width: 200px;
+  height: 100px;
+}
 .soc-ico {
   width: 50px;
   height: 50px;
+}
+.footer p {
+  margin: auto;
 }
 
 .footer a {
   font-size: 2.5rem;
   margin: 10px;
 }
-/*.footer a:hover {
-  transition: 0.7s;
-}*/
+
 .footer .soc-ico:hover {
   animation: footer 0.7s ease;
 }
@@ -77,5 +83,30 @@ p {
 @keyframes footer {
   100% {
     transform: rotate(360deg);
+  }
+}
+@media (max-width: 768px) {
+  .project-img {
+    width: 350px;
+    height: 250px;
+  }
+  .exp-img {
+    width: 50px;
+    height: 50px;
+  }
+  .exp-img-lg {
+    width: 100px;
+    height: 50px;
+  }
+  p {
+    margin: 20px;
+  }
+  .intro {
+    margin: 10px;
+    padding: 20px;
+  }
+  .soc-ico {
+    width: 30px;
+    height: 30px;
   }
 }

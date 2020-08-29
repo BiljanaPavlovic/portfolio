@@ -18,7 +18,7 @@ export default function Education() {
           <Col>
             <img
               src="/portfolio/img/edu/bootcamp.png"
-              className="exp-img"
+              className="exp-img-lg"
               alt="logo"
             />
             <br />

@@ -83,7 +83,7 @@ export default function Experience() {
           <Col>
             <img
               src="/portfolio/img/exp/abc.png"
-              className="exp-img"
+              className="exp-img-lg"
               alt="logo"
             />
             <br />
