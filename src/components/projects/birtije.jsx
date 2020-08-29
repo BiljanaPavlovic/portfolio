@@ -11,12 +11,12 @@ export default function Birtije() {
           <Col>
             <p>
               Birtije projekat je napravljen u Reactu, za dizajn sam koristila
-              React-Bootstrap i CSS. Sajt se sastoji iz tri dela: O kafanama gde
-              je planirano da se prikazuju tekstovi o starim kafanama, zatim
-              unutar tog dela imamo neke zabavne sadržaje kao što su citati o
-              kafanama, pesme i zdravice. Drugi deo je posvećen predstavljanju
-              Beogradskih kafana koje rade i treći čini žiri koji će ocenjivati
-              te kafane.
+              React-Bootstrap i CSS. Sajt se sastoji iz tri dela: O kafanama,
+              gde je planirano da se prikazuju tekstovi o starim kafanama, zatim
+              unutar tog dela možete naći neke zabavne sadržaje kao što su
+              citati o kafanama, pesme i zdravice. Drugi deo posvećen je
+              predstavljanju Beogradskih kafana koje rade i treći čini žiri koji
+              će ocenjivati te kafane.
             </p>
           </Col>
           <Col>

@@ -10,9 +10,7 @@ export default function LandingPages() {
         <Row></Row>
         <Row>
           <Col>
-            <p>
-              Ovaj projekat je naslovna strana sajta sa animiranom pozadinom.
-            </p>
+            <p>Projekat je naslovna strana sajta sa animiranom pozadinom.</p>
             <p>HTML, CSS i JS</p>
             <a
               href="https://biljanapavlovic.github.io/landing-page-practis-/#about"
@@ -26,7 +24,7 @@ export default function LandingPages() {
             </a>
           </Col>
           <Col>
-            <p>Ova naslovna stranica je rađena sa bootstrapom.</p>
+            <p>Naslovna stranica je rađena sa bootstrapom.</p>
             <p>HTML, CSS, Bootstrap</p>
             <a
               href="https://biljanapavlovic.github.io/Bootstrap-landing-page/"
@@ -40,7 +38,7 @@ export default function LandingPages() {
             </a>
           </Col>
           <Col>
-            <p>Ova stranica je napravljena uz pomoć CSS grida</p>
+            <p>Stranica je napravljena uz pomoć CSS grida</p>
             <p>HTML, CSS</p>
             <a
               href="https://biljanapavlovic.github.io/WebconResponsiveDesign/"

@@ -95,7 +95,7 @@ export default function Experience() {
               tekstova, sa i bez overe sudskog tumača. Radila sam na poziciji
               projekt menadžera i moja zaduženja su bila da organizujem i pratim
               izvođenje usluga prevođenja. Imala sam kontaka sa mnogim
-              klijentima i fizičkim i pravnim licima, kao i sa prevodiovima i
+              klijentima i fizičkim i pravnim licima, kao i sa prevodiocima i
               sudskim tumačima za različite jezike.
             </p>
           </Col>

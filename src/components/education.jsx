@@ -69,11 +69,10 @@ export default function Education() {
             </a>
             <p>
               Završila sam ogledno odeljenje u Drugoj ekonomskoj školi gde su
-              nas najviše učili preduzetničkom dugu i snalaženju u
-              administrativnim procedurama. Imali smo veoma mnogo časova
-              posvećenih praktičnom radu. Takođe tokom školovanja sam
-              učestvovala u osnivanju školskog časopisa "Stav" koji i dalje
-              izlazi.
+              nas najviše učili preduzetničkom duhu i snalaženju u
+              administrativnim procedurama. Imali smo mnogo časova posvećenih
+              praktičnom radu. Takođe tokom školovanja sam učestvovala u
+              osnivanju školskog časopisa "Stav" koji i dalje izlazi.
             </p>
           </Col>
         </Row>
