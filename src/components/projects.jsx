@@ -6,7 +6,9 @@ import LandingPages from "./projects/landingPages";
 export default function Projects() {
   return (
     <div>
-      <h2>Ovo su moji projekti</h2>
+      <h2 className="second-title">
+        Ovde možete pogledati neke od mojih projekata
+      </h2>
       <Staznam />
       <hr />
       <Birtije />

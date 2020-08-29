@@ -10,10 +10,13 @@ export default function Birtije() {
         <Row>
           <Col>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-              cumque enim incidunt ex alias, aperiam laboriosam dolorum
-              laudantium voluptatum nihil delectus sed nobis! Fugiat nisi
-              numquam nobis distinctio, et sed.
+              Birtije projekat je napravljen u Reactu, za dizajn sam koristila
+              React-Bootstrap i CSS. Sajt se sastoji iz tri dela: O kafanama gde
+              je planirano da se prikazuju tekstovi o starim kafanama, zatim
+              unutar tog dela imamo neke zabavne sadržaje kao što su citati o
+              kafanama, pesme i zdravice. Drugi deo je posvećen predstavljanju
+              Beogradskih kafana koje rade i treći čini žiri koji će ocenjivati
+              te kafane.
             </p>
           </Col>
           <Col>

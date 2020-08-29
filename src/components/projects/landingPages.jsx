@@ -11,11 +11,9 @@ export default function LandingPages() {
         <Row>
           <Col>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis
-              nihil ipsam accusamus consectetur, quo accusantium aperiam,
-              voluptas illo itaque autem consequuntur dignissimos vero quaerat
-              ea delectus? Fuga itaque perferendis alias.
+              Ovaj projekat je naslovna strana sajta sa animiranom pozadinom.
             </p>
+            <p>HTML, CSS i JS</p>
             <a
               href="https://biljanapavlovic.github.io/landing-page-practis-/#about"
               target="_blanc"
@@ -28,12 +26,8 @@ export default function LandingPages() {
             </a>
           </Col>
           <Col>
-            <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis
-              nihil ipsam accusamus consectetur, quo accusantium aperiam,
-              voluptas illo itaque autem consequuntur dignissimos vero quaerat
-              ea delectus? Fuga itaque perferendis alias.
-            </p>
+            <p>Ova naslovna stranica je rađena sa bootstrapom.</p>
+            <p>HTML, CSS, Bootstrap</p>
             <a
               href="https://biljanapavlovic.github.io/Bootstrap-landing-page/"
               target="_blanc"
@@ -46,12 +40,8 @@ export default function LandingPages() {
             </a>
           </Col>
           <Col>
-            <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis
-              nihil ipsam accusamus consectetur, quo accusantium aperiam,
-              voluptas illo itaque autem consequuntur dignissimos vero quaerat
-              ea delectus? Fuga itaque perferendis alias.
-            </p>
+            <p>Ova stranica je napravljena uz pomoć CSS grida</p>
+            <p>HTML, CSS</p>
             <a
               href="https://biljanapavlovic.github.io/WebconResponsiveDesign/"
               target="_blanc"

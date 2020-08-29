@@ -4,7 +4,7 @@ import Profile from "../components/profile";
 export default function Header() {
   return (
     <div>
-      <h1>Biljana Pavlović</h1>
+      <h1 className="headline">Biljana Pavlović</h1>
       <Profile />
     </div>
   );

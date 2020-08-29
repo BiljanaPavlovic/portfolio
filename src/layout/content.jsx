@@ -11,12 +11,12 @@ export default function Content() {
     <div>
       <Projects />
       <Link to="/education">
-        <Button variant="secondary" size="lg">
+        <Button className="btn" variant="secondary" size="lg">
           Obrazovanje
         </Button>
       </Link>
       <Link to="/experience">
-        <Button variant="secondary" size="lg">
+        <Button className="btn" variant="secondary" size="lg">
           Iskustvo
         </Button>
       </Link>

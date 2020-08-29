@@ -11,12 +11,13 @@ export default function Profile() {
       <Container>
         <Row>
           <Col>
-            {" "}
-            <p>
+            <p className="intro">
               Zdravo! Ja sam Biljana, završila sam proces prekvalifikacije na
-              kursu za razvoj web stranice. Do sada sam studirala književnost i
-              radila, najviše u administraciji. Odlučila sam se za
-              prekvalifikaciju jer smatram da bi mi posao u IT struci pružio
+              kursu za razvoj web stranice u organizaciji Divac fondacije. Do
+              sada sam studirala književnost i radila, najviše u administraciji.
+              Odlučila sam se za prekvalifikaciju jer sam tokom rada na pisanju
+              tekstova za jedan sajt zavolela web i poželela da mogu i ja da
+              napravim sajt i smatram da bi mi posao u IT struci pružio
               mogućnost da ispoljim svoj pun potencijal i iskažem svoju
               kreativnost. Želim da se bavim front-end programiranjem, da
               osmišljavam izgled i funkcije web stranica i drugih aplikacija sa
@@ -25,7 +26,11 @@ export default function Profile() {
           </Col>
           <Col xs={6} md={4}>
             <Link to="/">
-              <Image src="/portfolio/img/profil.png" roundedCircle />
+              <Image
+                className="profile-img"
+                src="/portfolio/img/profil.png"
+                roundedCircle
+              />
             </Link>
           </Col>
         </Row>

@@ -11,35 +11,42 @@ export default function Experience() {
       <Container>
         <Row>
           <Col>
-            <h3>Iskustvo</h3>
+            <h3 className="second-title">Iskustvo</h3>
           </Col>
         </Row>
         <Row>
           <Col>
-            <li>
-              <a href="https://www.delfi.rs/" target="_blanck">
-                {" "}
-                Delfi knjižare - Knjižar/Prodavac (2019)
-              </a>
-              <p>
-                U Delfi knjižari sam radila sa različitim ljudima kupcima
-                knjiga, trudila sam se da im pronađem knjigu koja će odgovarati
-                njihovom individualnom ukusu. Takođe, kada su kupovali knjige za
-                poklon zajednički smo se trudili da pronađemo onu koja će
-                najviše odgovarati. Osim rada sa kupcima posao je obuhvatao i
-                vođenje evidencija o pazaru i različitim administrativnim
-                procedurama, kao i slanje knjige kupcima koji su ih naručivali
-                preko internet prodavnice, kao i fakturisanje tih porudžbina.{" "}
-              </p>
-            </li>
+            <img
+              src="/portfolio/img/exp/delfi.jpg"
+              className="exp-img"
+              alt="logo"
+            />
+            <br />
+            <a href="https://www.delfi.rs/" target="_blanck">
+              {" "}
+              Delfi knjižare - Knjižar/Prodavac (2019)
+            </a>
+            <p>
+              U Delfi knjižari sam radila sa različitim ljudima kupcima knjiga,
+              trudila sam se da im pronađem knjigu koja će odgovarati njihovom
+              individualnom ukusu. Takođe, kada su kupovali knjige za poklon
+              zajednički smo se trudili da pronađemo onu koja će najviše
+              odgovarati. Osim rada sa kupcima posao je obuhvatao i vođenje
+              evidencija o pazaru i različitim administrativnim procedurama, kao
+              i slanje knjige kupcima koji su ih naručivali preko internet
+              prodavnice, kao i fakturisanje tih porudžbina.{" "}
+            </p>
           </Col>
           <Col sm>
-            {" "}
-            <li>
-              <a href="https://www.bgb.rs/" target="_blanck">
-                Biblioteka grada Beograda - Bibliotekar{" "}
-              </a>
-            </li>
+            <img
+              src="/portfolio/img/exp/bgb.jpg"
+              className="exp-img"
+              alt="logo"
+            />
+            <br />
+            <a href="https://www.bgb.rs/" target="_blanck">
+              Biblioteka grada Beograda - Bibliotekar{" "}
+            </a>
             <p>
               Bila sam Bibliotekar preko programa BGpraksa u organizaciji
               univerzitetskog Centra za razvoj karijere u trajanju od tri
@@ -54,56 +61,65 @@ export default function Experience() {
         </Row>
         <Row>
           <Col sm>
-            {" "}
-            <li>
-              <a href="https://svezasvadbu.com/" target="_blanck">
-                svezasvadbu.com - Urednik sadržaja (2017)
-              </a>
-              <p>
-                Sve za svadbu je sajt za koji sam radila kao urednik sadržaja,
-                tom prilikom sam se prvi put upoznala sa radom na sajtu, mada na
-                mnogo drugačiji način. Za ovaj sajt sam pisala tekstove o
-                savetima, običajima i zanimljivostima vezanim za organizaciju
-                svadbe. Takođe sam pronalazila odgovarajuće fotografije i sve to
-                unosila na sajt preko CMS platforme Avokado. Na tom poslu sam se
-                upoznala sa osnovama SEO optimizacije sajta.{" "}
-              </p>
-            </li>
+            <img
+              src="/portfolio/img/exp/svezasvadbu.png"
+              className="exp-img"
+              alt="logo"
+            />
+            <br />
+            <a href="https://svezasvadbu.com/" target="_blanck">
+              svezasvadbu.com - Urednik sadržaja (2017)
+            </a>
+            <p>
+              Sve za svadbu je sajt za koji sam radila kao urednik sadržaja, tom
+              prilikom sam se prvi put upoznala sa radom na sajtu, mada na mnogo
+              drugačiji način. Za ovaj sajt sam pisala tekstove o savetima,
+              običajima i zanimljivostima vezanim za organizaciju svadbe. Takođe
+              sam pronalazila odgovarajuće fotografije i sve to unosila na sajt
+              preko CMS platforme Avokado. Na tom poslu sam se upoznala sa
+              osnovama SEO optimizacije sajta.{" "}
+            </p>
           </Col>
           <Col>
-            {" "}
-            <li>
-              <a href="https://www.abcprevodi.co.rs/" target="_blanck">
-                Abc prevodi - Project manager (2017)
-              </a>
-              <p>
-                Agencija “Abc prevodi” pruža usluge usmenog i pismenog
-                prevođenja tekstova, sa i bez overe sudskog tumača. Radila sam
-                na poziciji projekt menadžera i moja zaduženja su bila da
-                organizujem i pratim izvođenje usluga prevođenja. Imala sam
-                kontaka sa mnogim klijentima i fizičkim i pravnim licima, kao i
-                sa prevodiovima i sudskim tumačima za različite jezike.
-              </p>
-            </li>
+            <img
+              src="/portfolio/img/exp/abc.png"
+              className="exp-img"
+              alt="logo"
+            />
+            <br />
+            <a href="https://www.abcprevodi.co.rs/" target="_blanck">
+              Abc prevodi - Project manager (2017)
+            </a>
+            <p>
+              Agencija “Abc prevodi” pruža usluge usmenog i pismenog prevođenja
+              tekstova, sa i bez overe sudskog tumača. Radila sam na poziciji
+              projekt menadžera i moja zaduženja su bila da organizujem i pratim
+              izvođenje usluga prevođenja. Imala sam kontaka sa mnogim
+              klijentima i fizičkim i pravnim licima, kao i sa prevodiovima i
+              sudskim tumačima za različite jezike.
+            </p>
           </Col>
           <Col sm>
-            {" "}
-            <li>
-              <a
-                href="https://www.facebook.com/PrevodiociSudskiTumaci/"
-                target="_blanck"
-              >
-                Hera consalting - Office manager (2017)
-              </a>
-              <p>
-                Hera consulting je manja prevodilačka agencija gde sam radila na
-                poziciji office managera i posao mi je bio da komuniciram sa
-                klijentima, uglavnom fizičkim licima, kojima je prevod potreban
-                i prevodiocima. Osim toga vodila sam sve evidencije za
-                funkcionisanje agencije, pripremala fakture i prikupljala
-                dokumenta za slanje knjigovodstvu.{" "}
-              </p>
-            </li>
+            <img
+              src="/portfolio/img/exp/heraconsulting.png"
+              className="exp-img"
+              alt="logo"
+            />
+            <br />
+            <a
+              href="https://www.facebook.com/PrevodiociSudskiTumaci/"
+              target="_blanck"
+            >
+              Hera consalting - Office manager (2017)
+            </a>
+            <p>
+              Hera consulting je manja prevodilačka agencija gde sam radila na
+              poziciji office managera i posao mi je bio da komuniciram sa
+              klijentima, uglavnom fizičkim licima, kojima je prevod potreban i
+              prevodiocima. Osim toga vodila sam sve evidencije za
+              funkcionisanje agencije, pripremala fakture i prikupljala
+              dokumenta za slanje knjigovodstvu.{" "}
+            </p>
           </Col>
         </Row>
       </Container>
