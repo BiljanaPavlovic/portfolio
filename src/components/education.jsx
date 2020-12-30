@@ -8,6 +8,71 @@ export default function Education() {
   return (
     <div>
       <Image src="/portfolio/img/education.jpg" fluid />
+      <div className="sertifikati">
+        <Container>
+          <h3>Sertifikati</h3>
+          <Row>
+            <Col>
+              <p>Uvod u programiranje.</p>
+
+              <div className="imgDiv">
+                <img
+                  src="/portfolio/img/sertifikati/UuP.png"
+                  alt="project-img"
+                  className="project-img-lp"
+                />
+              </div>
+            </Col>
+            <Col>
+              <p>Manuelno testiranje softvera.</p>
+
+              <div className="imgDiv">
+                <img
+                  src="/portfolio/img/sertifikati/QA.png"
+                  alt="project-img"
+                  className="project-img-lp"
+                />
+              </div>
+            </Col>
+          </Row>
+          <Row>
+            <Col>
+              <p>Python</p>
+
+              <div className="imgDiv">
+                <img
+                  src="/portfolio/img/sertifikati/sertifikat pajton.png"
+                  alt="project-img"
+                  className="project-img-lp"
+                />
+              </div>
+            </Col>
+            <Col>
+              <p>Python</p>
+
+              <div className="imgDiv">
+                <img
+                  src="/portfolio/img/sertifikati/Python.png"
+                  alt="project-img"
+                  className="project-img-lp"
+                />
+              </div>
+            </Col>
+            <Col>
+              <p>SEO</p>
+
+              <div className="imgDiv">
+                <img
+                  src="/portfolio/img/sertifikati/SEO.png"
+                  alt="project-img"
+                  className="project-img-lp"
+                />
+              </div>
+            </Col>
+          </Row>
+        </Container>
+      </div>
+
       <Container>
         <Row>
           <Col>

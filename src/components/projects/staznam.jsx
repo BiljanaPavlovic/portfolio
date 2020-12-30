@@ -9,6 +9,16 @@ export default function Staznam() {
       <Container>
         <Row>
           <Col>
+            <p>
+              Kao deo tima sam radila na ovom projektu, deo sajta koji je bio
+              moje zaduženje je arhiva, kao i veći deo dizajna sajta. Korišćene
+              tehnologije su:
+            </p>
+            <li>React za frontend,</li>
+            <li>Node za backend,</li>
+            <li> React-Bootstrap i CSS za dizajn</li>
+          </Col>
+          <Col>
             <div className="imgDiv">
               <a
                 href="https://js-samuraji.github.io/staznam.rs/"
@@ -21,16 +31,6 @@ export default function Staznam() {
                 />
               </a>
             </div>
-          </Col>
-          <Col>
-            <p>
-              Kao deo tima sam radila na ovom projektu, deo sajta koji je bio
-              moje zaduženje je arhiva, kao i veći deo dizajna sajta. Korišćene
-              tehnologije su:
-            </p>
-            <li>React za frontend,</li>
-            <li>Node za backend,</li>
-            <li> React-Bootstrap i CSS za dizajn</li>
           </Col>
         </Row>
       </Container>

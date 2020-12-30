@@ -45,6 +45,22 @@ export default function ReactProjects() {
         </Row>
         <Row>
           <Col>
+            <p>Tic-tac-toe </p>
+            <p>React, CSS, React-Bootstrap, API, Socket</p>
+            <div className="imgDiv">
+              <a
+                href="https://github.com/BiljanaPavlovic/Tic-tac-toe-game"
+                target="_blanc"
+              >
+                <img
+                  src="/portfolio/img/14.png"
+                  alt="project-img"
+                  className="project-img-lp"
+                />
+              </a>
+            </div>
+          </Col>
+          <Col>
             <p>Converter </p>
             <p>React, CSS</p>
             <div className="imgDiv">
@@ -65,7 +81,7 @@ export default function ReactProjects() {
             <p>React, CSS, ReactBootstrap</p>
             <div className="imgDiv">
               <a
-                href="https://biljanapavlovic.github.io/ITBootcamp-zavrsni-rad/"
+                href="https://github.com/BiljanaPavlovic/ITBootcampZavrsniRad"
                 target="_blanc"
               >
                 <img

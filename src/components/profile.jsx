@@ -26,13 +26,11 @@ export default function Profile() {
           </Col>
           <Col xs={6} md={4}>
             <Link to="/">
-              <div className="imgDiv">
-                <Image
-                  className="profile-img"
-                  src="/portfolio/img/profil.png"
-                  roundedCircle
-                />
-              </div>
+              <Image
+                className="profile-img"
+                src="/portfolio/img/profil.png"
+                roundedCircle
+              />
             </Link>
           </Col>
         </Row>
