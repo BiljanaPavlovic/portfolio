@@ -5,51 +5,94 @@ import Col from "react-bootstrap/Col";
 
 export default function LandingPages() {
   return (
-    <div>
+    <div className="landingPages">
       <Container>
-        <Row></Row>
+        <h3>Landing Pages</h3>
+        <Row>
+          <Col>
+            <p>Naslovna stranica je rađena sa SCSS-om.</p>
+            <p>HTML, SCSS</p>
+            <div className="imgDiv">
+              <a
+                href="https://biljanapavlovic.github.io/connect-to-the-world/"
+                target="_blanc"
+              >
+                <img
+                  src="/portfolio/img/6.png"
+                  alt="project-img"
+                  className="project-img-lp"
+                />
+              </a>
+            </div>
+          </Col>
+          <Col>
+            <p>
+              Stranica je napravljena u HTML-u i CSS-u uz nešto JS-a za
+              animaciju slova.
+            </p>
+            <p>HTML, CSS, JS</p>
+            <div className="imgDiv">
+              <a
+                href="https://biljanapavlovic.github.io/AgencijaWebcon/"
+                target="_blanc"
+              >
+                <img
+                  src="/portfolio/img/7.png"
+                  alt="project-img"
+                  className="project-img-lp"
+                />
+              </a>
+            </div>
+          </Col>
+        </Row>
         <Row>
           <Col>
             <p>Projekat je naslovna strana sajta sa animiranom pozadinom.</p>
             <p>HTML, CSS i JS</p>
-            <a
-              href="https://biljanapavlovic.github.io/landing-page-practis-/#about"
-              target="_blanc"
-            >
-              <img
-                src="/portfolio/img/1.png"
-                alt="project-img"
-                className="project-img-lp"
-              />
-            </a>
+            <div className="imgDiv">
+              <a
+                href="https://biljanapavlovic.github.io/landing-page-practis-/#about"
+                target="_blanc"
+              >
+                <img
+                  src="/portfolio/img/1.png"
+                  alt="project-img"
+                  className="project-img-lp"
+                />
+              </a>
+            </div>
           </Col>
           <Col>
             <p>Naslovna stranica je rađena sa bootstrapom.</p>
             <p>HTML, CSS, Bootstrap</p>
-            <a
-              href="https://biljanapavlovic.github.io/Bootstrap-landing-page/"
-              target="_blanc"
-            >
-              <img
-                src="/portfolio/img/2.png"
-                alt="project-img"
-                className="project-img-lp"
-              />
-            </a>
+            <div className="imgDiv">
+              <a
+                href="https://biljanapavlovic.github.io/Bootstrap-landing-page/"
+                target="_blanc"
+              >
+                <img
+                  src="/portfolio/img/2.png"
+                  alt="project-img"
+                  className="project-img-lp"
+                />
+              </a>
+            </div>
           </Col>
           <Col>
             <p>Stranica je napravljena uz pomoć CSS grida</p>
             <p>HTML, CSS</p>
-            <a
-              href="https://biljanapavlovic.github.io/WebconResponsiveDesign/"
-              target="_blanc"
-            >
-              <img
-                src="/portfolio/img/3.png"
-                alt="project-img"
-                className="project-img-lp"
-              />
-            </a>
+            <div className="imgDiv">
+              <a
+                href="https://biljanapavlovic.github.io/WebconResponsiveDesign/"
+                target="_blanc"
+              >
+                <img
+                  src="/portfolio/img/3.png"
+                  alt="project-img"
+                  className="project-img-lp"
+                />
+              </a>
+            </div>
           </Col>
         </Row>
       </Container>

@@ -4,7 +4,6 @@ import Education from "../components/education";
 import Experience from "../components/experience";
 import Button from "react-bootstrap/Button";
 import { Switch, Route, Link } from "react-router-dom";
-import App from "../App";
 
 export default function Content() {
   return (

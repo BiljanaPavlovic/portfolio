@@ -20,13 +20,15 @@ export default function Birtije() {
             </p>
           </Col>
           <Col>
-            <a href="https://birtije.000webhostapp.com/" target="_blanc">
-              <img
-                src="/portfolio/img/4.png"
-                alt="project-img"
-                className="project-img"
-              />
-            </a>
+            <div className="imgDiv">
+              <a href="https://birtije.000webhostapp.com/" target="_blanc">
+                <img
+                  src="/portfolio/img/4.png"
+                  alt="project-img"
+                  className="project-img"
+                />
+              </a>
+            </div>
           </Col>
         </Row>
       </Container>

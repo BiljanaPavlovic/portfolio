@@ -25,7 +25,9 @@
 .second-title {
   margin: 50px;
 }
-
+.imgDiv {
+  overflow: hidden;
+}
 .project-img {
   width: 600px;
   height: 400px;

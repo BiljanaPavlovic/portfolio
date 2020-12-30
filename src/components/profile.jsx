@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 
 export default function Profile() {
   return (
-    <div>
+    <div className="profile">
       <Container>
         <Row>
           <Col>
@@ -26,11 +26,13 @@ export default function Profile() {
           </Col>
           <Col xs={6} md={4}>
             <Link to="/">
-              <Image
-                className="profile-img"
-                src="/portfolio/img/profil.png"
-                roundedCircle
-              />
+              <div className="imgDiv">
+                <Image
+                  className="profile-img"
+                  src="/portfolio/img/profil.png"
+                  roundedCircle
+                />
+              </div>
             </Link>
           </Col>
         </Row>

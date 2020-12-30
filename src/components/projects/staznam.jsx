@@ -9,13 +9,18 @@ export default function Staznam() {
       <Container>
         <Row>
           <Col>
-            <a href="https://js-samuraji.github.io/staznam.rs/" target="_blanc">
-              <img
-                src="/portfolio/img/5.png"
-                alt="project-img"
-                className="project-img"
-              />
-            </a>
+            <div className="imgDiv">
+              <a
+                href="https://js-samuraji.github.io/staznam.rs/"
+                target="_blanc"
+              >
+                <img
+                  src="/portfolio/img/5.png"
+                  alt="project-img"
+                  className="project-img"
+                />
+              </a>
+            </div>
           </Col>
           <Col>
             <p>
