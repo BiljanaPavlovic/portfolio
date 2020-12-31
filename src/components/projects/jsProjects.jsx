@@ -45,9 +45,63 @@ export default function JsProjects() {
           </Col>
         </Row>
         <Row>
-          <Col>1 of 3</Col>
-          <Col>2 of 3</Col>
-          <Col>3 of 3</Col>
+          <Col>
+            {" "}
+            <p>
+              Aplikacija za razmenu poruka, radjena kao projekat na
+              ITBootcamp-u.
+            </p>
+            <p>HTML, CSS, JS, API</p>
+            <div className="imgDiv">
+              <a
+                href="https://biljanapavlovic.github.io/CetApp2019/"
+                target="_blanc"
+              >
+                <img
+                  src="/portfolio/img/17.png"
+                  alt="project-img"
+                  className="project-img-lp"
+                />
+              </a>
+            </div>
+          </Col>
+          <Col>
+            {" "}
+            <p>Marko Kraljević putuje galaksijom i rezerviše karte za put.</p>
+            <p>HTML, CSS, JS</p>
+            <div className="imgDiv">
+              <a
+                href="https://biljanapavlovic.github.io/MarkoKraljevicTrans/"
+                target="_blanc"
+              >
+                <img
+                  src="/portfolio/img/15.png"
+                  alt="project-img"
+                  className="project-img-lp"
+                />
+              </a>
+            </div>
+          </Col>
+          <Col>
+            {" "}
+            <p>
+              Budzet app, razvrstava prihode i rashode i izračunava ostatak
+              2019.
+            </p>
+            <p>HTML, CSS, JS</p>
+            <div className="imgDiv">
+              <a
+                href="https://biljanapavlovic.github.io/budzetApp/"
+                target="_blanc"
+              >
+                <img
+                  src="/portfolio/img/16.png"
+                  alt="project-img"
+                  className="project-img-lp"
+                />
+              </a>
+            </div>
+          </Col>
         </Row>
       </Container>
     </div>

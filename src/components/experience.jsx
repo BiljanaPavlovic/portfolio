@@ -2,12 +2,10 @@ import React from "react";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import Image from "react-bootstrap/Image";
 
 export default function Experience() {
   return (
     <div>
-      <Image src="/portfolio/img/experience.jpg" fluid />
       <Container>
         <Row>
           <Col>
