@@ -29,6 +29,9 @@ export default function Profile() {
               <Image
                 className="profile-img"
                 src="/portfolio/img/profil.png"
+                onClick={(e) =>
+                  (e.currentTarget.src = "/portfolio/img/profil-boja.jpg")
+                }
                 roundedCircle
               />
             </Link>

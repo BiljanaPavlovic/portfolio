@@ -34,14 +34,14 @@ export default function Footer() {
           alt="soc-ico"
         />
       </a>
-      <p>
+      <li>
         <img
           src="/portfolio/img/soc-ico/gmail.png"
           className="soc-ico"
           alt="soc-ico"
         />
         zabiljanupavlovic@gmail.com
-      </p>
+      </li>
 
       <p> &copy; Made by Biljana Pavlovic 2020.</p>
     </div>
