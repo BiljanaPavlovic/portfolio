@@ -20,17 +20,35 @@ export default function Hakaton() {
             </div>
           </Col>
           <Col>
+            <h5>Online.Female.Code.Hackathon.2020.Namics</h5>
             <p>
-              Kao deo tima sam radila na ovom projektu na hakatonu u
-              organizaciji Namics kompanije. Moja zaduženja su bila setovanje
-              backenda i povezivanje sa frontom. Aplikacija je namenjena
-              humanitarnim organizacijama da oglašavaju svoje akcije kao i
-              volonterima koji se mogu uključiti. Takođe je planirano da se
-              uvede i servis za pružanje psihološke pomoći pojedincima ugroženim
-              covid-om.
+              2020. godine sam učestvovala na hakatonu, članice moga tima i ja
+              se nismo ranije poznavale, nego je tim sastavljen od individualno
+              prijavljenih devojaka. Uprkos tome smo se veoma brzo složile i
+              zajednički osmislile ideju za aplikaciju i izradile prototip. Tema
+              hakatona je bila korona virus, pa smo osmislile aplikaciju koja će
+              pomagati humanitarnim organizacijama da oglase svoje aktivnosti
+              kako bi oni kojima je pomoć potrebna došli do nje. U daljem
+              razvoju aplikacije je zamišljeno da će ona u budućnosti služiti i
+              kao mesto za pružanje psihološke pomoći ljudima korisnicima.
             </p>
-            <li>HTML, CSS i JS,</li>
-            <li>Za backend je korišćen live JSON server,</li>
+            <p>
+              S obzirom na to da poznajemo različite tehnologije, dogovorile smo
+              se da koristimo osnovne web tehnologije na ovom projektu, tako da
+              smo za front koristile HTML, CSS i JS. Za bek smo iskoristile JSON
+              server.
+            </p>
+            <p>
+              Moja uloga u timu je bila da postavim bek i povežem sa frontom
+              kako bismo imale funkciju upisivanja akcija na sajtu.
+            </p>
+            <a href="https://github.com/Tim8hakaton" target="_blanc">
+              <img
+                src="/portfolio/img/soc-ico/code.png"
+                alt="project-img"
+                className="code-ico"
+              />
+            </a>
           </Col>
         </Row>
       </Container>

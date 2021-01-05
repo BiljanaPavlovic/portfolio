@@ -9,15 +9,38 @@ export default function Birtije() {
       <Container>
         <Row>
           <Col>
+            <h5>BIRTIJE.COM</h5>
             <p>
-              Birtije projekat je napravljen u Reactu, za dizajn sam koristila
-              React-Bootstrap i CSS. Sajt se sastoji iz tri dela: O kafanama,
-              gde je planirano da se prikazuju tekstovi o starim kafanama, zatim
-              unutar tog dela možete naći neke zabavne sadržaje kao što su
-              citati o kafanama, pesme i zdravice. Drugi deo posvećen je
-              predstavljanju Beogradskih kafana koje rade i treći čini žiri koji
-              će ocenjivati te kafane.
+              Birtije projekat je moj samostalni projekat. Sajt se sastoji iz
+              tri dela: O kafanama, gde je planirano da se prikazuju tekstovi o
+              starim kafanama, zatim unutar tog dela možete naći neke zabavne
+              sadržaje kao što su citati o kafanama, pesme i zdravice. Drugi deo
+              posvećen je predstavljanju Beogradskih kafana koje rade i treći
+              čini žiri koji će ocenjivati te kafane. Korisnici će moći da daju
+              pluseve i minuse recenzijama žirija i da ostavljaju svoje
+              komentare koji će takođe moći da se ocenjuju.
             </p>
+            <p>
+              Sajt je napravljen u Reactu, za dizajn sam koristila
+              React-Bootstrap i CSS.
+            </p>
+            <a
+              href="https://github.com/BiljanaPavlovic/BIRTIJE.COM"
+              target="_blanc"
+            >
+              <img
+                src="/portfolio/img/soc-ico/code.png"
+                alt="project-img"
+                className="code-ico"
+              />
+            </a>
+            <a href="https://birtije.000webhostapp.com/" target="_blanc">
+              <img
+                src="/portfolio/img/soc-ico/Live.png"
+                alt="project-img"
+                className="code-ico"
+              />
+            </a>
           </Col>
           <Col>
             <div className="imgDiv">

@@ -11,33 +11,87 @@ export default function ReactProjects() {
 
         <Row>
           <Col>
-            <p>Povlacenje letova sa SpaceX API servisa</p>
-            <p>React, CSS</p>
-            <div className="imgDiv">
+            <div className="project-small">
+              <h5>SpaceX</h5>
+
+              <div className="imgDiv">
+                <a
+                  href="https://biljanapavlovic.github.io/spaceX/"
+                  target="_blanc"
+                >
+                  <img
+                    src="/portfolio/img/12.png"
+                    alt="project-img"
+                    className="project-img-lp"
+                  />
+                </a>
+              </div>
+              <p>
+                Ova aplikacija povlači podatke o prošlim i budućim lansiranjima
+                raketa kompanije SpaceX i sortira ih po vremenu dešavanja.
+              </p>
+              <p>Korišćene tehnologije: React, CSS, API</p>
+              <a
+                href="https://github.com/BiljanaPavlovic/spaceX"
+                target="_blanc"
+              >
+                <img
+                  src="/portfolio/img/soc-ico/code.png"
+                  alt="project-img"
+                  className="code-ico"
+                />
+              </a>
               <a
                 href="https://biljanapavlovic.github.io/spaceX/"
                 target="_blanc"
               >
                 <img
-                  src="/portfolio/img/12.png"
+                  src="/portfolio/img/soc-ico/Live.png"
                   alt="project-img"
-                  className="project-img-lp"
+                  className="code-ico"
                 />
               </a>
             </div>
           </Col>
           <Col>
-            <p>Smešni citati o programerima</p>
-            <p>React, CSS</p>
-            <div className="imgDiv">
+            <div className="project-small">
+              <h5>Citati</h5>
+
+              <div className="imgDiv">
+                <a
+                  href="https://biljanapavlovic.github.io/Quotes/"
+                  target="_blanc"
+                >
+                  <img
+                    src="/portfolio/img/11.png"
+                    alt="project-img"
+                    className="project-img-lp"
+                  />
+                </a>
+              </div>
+              <p>
+                Ova aplikacija izvlači nasumične citate iz niza i pruža
+                mogućnost korisniku da ih oceni.
+              </p>
+              <p>Korišćene tehnologije: React, CSS</p>
+              <a
+                href="https://github.com/BiljanaPavlovic/Quotes"
+                target="_blanc"
+              >
+                <img
+                  src="/portfolio/img/soc-ico/code.png"
+                  alt="project-img"
+                  className="code-ico"
+                />
+              </a>
               <a
                 href="https://biljanapavlovic.github.io/Quotes/"
                 target="_blanc"
               >
                 <img
-                  src="/portfolio/img/11.png"
+                  src="/portfolio/img/soc-ico/Live.png"
                   alt="project-img"
-                  className="project-img-lp"
+                  className="code-ico"
                 />
               </a>
             </div>
@@ -45,49 +99,113 @@ export default function ReactProjects() {
         </Row>
         <Row>
           <Col>
-            <p>Tic-tac-toe </p>
-            <p>React, CSS, React-Bootstrap, API, Socket</p>
-            <div className="imgDiv">
+            <div className="project-small">
+              <h5>Tic-tac-toe</h5>
+
+              <div className="imgDiv">
+                <a
+                  href="https://github.com/BiljanaPavlovic/Tic-tac-toe-game"
+                  target="_blanc"
+                >
+                  <img
+                    src="/portfolio/img/14.png"
+                    alt="project-img"
+                    className="project-img-lp"
+                  />
+                </a>
+              </div>
+              <p>
+                XO igrica sa dva igrača u realnom vremenu, napravljena je pomoću
+                dobijenog API-ja i Socket-a, moj rad je front deo aplikacije.{" "}
+              </p>
+              <p>
+                Korišćene tehnologije: React, CSS, React-Bootstrap, API, Socket
+              </p>
               <a
                 href="https://github.com/BiljanaPavlovic/Tic-tac-toe-game"
                 target="_blanc"
               >
                 <img
-                  src="/portfolio/img/14.png"
+                  src="/portfolio/img/soc-ico/code.png"
                   alt="project-img"
-                  className="project-img-lp"
+                  className="code-ico"
                 />
               </a>
             </div>
           </Col>
           <Col>
-            <p>Converter </p>
-            <p>React, CSS</p>
-            <div className="imgDiv">
+            <div className="project-small">
+              <h5>Kursna lista - konverter</h5>
+
+              <div className="imgDiv">
+                <a
+                  href="https://biljanapavlovic.github.io/Converter/"
+                  target="_blanc"
+                >
+                  <img
+                    src="/portfolio/img/13.png"
+                    alt="project-img"
+                    className="project-img-lp"
+                  />
+                </a>
+              </div>
+              <p>
+                Ova aplikacija vuče podatke sa API-ja i preračunava vrednost iz
+                jedne izabrane valute u drugu izabranu valutu.
+              </p>
+              <p>Korišćene tehnologije: React, CSS, API</p>
+              <a
+                href="https://github.com/BiljanaPavlovic/Converter"
+                target="_blanc"
+              >
+                <img
+                  src="/portfolio/img/soc-ico/code.png"
+                  alt="project-img"
+                  className="code-ico"
+                />
+              </a>
               <a
                 href="https://biljanapavlovic.github.io/Converter/"
                 target="_blanc"
               >
                 <img
-                  src="/portfolio/img/13.png"
+                  src="/portfolio/img/soc-ico/Live.png"
                   alt="project-img"
-                  className="project-img-lp"
+                  className="code-ico"
                 />
               </a>
             </div>
           </Col>
           <Col>
-            <p>Završni projekat na ITBootcamp-u forum.</p>
-            <p>React, CSS, ReactBootstrap</p>
-            <div className="imgDiv">
+            <div className="project-small">
+              <h5>ITBootcamp Forum</h5>
+
+              <div className="imgDiv">
+                <a
+                  href="https://github.com/BiljanaPavlovic/ITBootcampZavrsniRad"
+                  target="_blanc"
+                >
+                  <img
+                    src="/portfolio/img/10.png"
+                    alt="project-img"
+                    className="project-img-lp"
+                  />
+                </a>
+              </div>
+              <p>
+                Ovo je završni projekat na ITBootcamp-u, korisnik ima mogućnost
+                registracija, logovanja, razmene poruka i izlistavanje svojih
+                poruka kao i profil ulogovanog korisnika.
+              </p>
+              <p>Korišćene tehnologije: React, CSS, API</p>
               <a
                 href="https://github.com/BiljanaPavlovic/ITBootcampZavrsniRad"
                 target="_blanc"
               >
                 <img
-                  src="/portfolio/img/10.png"
+                  src="/portfolio/img/soc-ico/code.png"
                   alt="project-img"
-                  className="project-img-lp"
+                  className="code-ico"
                 />
               </a>
             </div>

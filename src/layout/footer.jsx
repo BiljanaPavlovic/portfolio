@@ -34,6 +34,13 @@ export default function Footer() {
           alt="soc-ico"
         />
       </a>
+      <a href="/portfolio/img/BiljanaPavlovicCV1.pdf" download>
+        <img
+          src="/portfolio/img/soc-ico/DownloadCV.png"
+          alt="Download CV"
+          className="soc-ico"
+        />
+      </a>
       <li>
         <img
           src="/portfolio/img/soc-ico/gmail.png"
