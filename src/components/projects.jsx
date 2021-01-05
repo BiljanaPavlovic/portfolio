@@ -8,9 +8,7 @@ import ReactProjects from "./projects/reactProjects";
 export default function Projects() {
   return (
     <div>
-      <h2 className="second-title">
-        Ovde možete pogledati neke od mojih projekata
-      </h2>
+      <h2 className="second-title">Samostalni projekti</h2>
 
       <Birtije />
       <hr />

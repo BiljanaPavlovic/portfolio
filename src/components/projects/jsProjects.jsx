@@ -7,7 +7,7 @@ export default function JsProjects() {
   return (
     <div>
       <Container>
-        <h3>Ovde možete pogledati moje JavaScript projekte</h3>
+        <h3>JavaScript projekti</h3>
         <br />
         <Row>
           <Col>

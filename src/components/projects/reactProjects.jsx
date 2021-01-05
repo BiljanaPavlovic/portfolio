@@ -7,7 +7,7 @@ export default function ReactProjects() {
   return (
     <div>
       <Container>
-        <h3>Projekti radjeni u React-u</h3>
+        <h3>React projekti</h3>
 
         <Row>
           <Col>

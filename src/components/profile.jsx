@@ -39,42 +39,42 @@ export default function Profile() {
                 <img
                   src="/portfolio/img/skills/html.png"
                   alt="HTML"
-                  className="soc-ico"
+                  className="skill-icon"
                 />
                 <img
                   src="/portfolio/img/skills/css.png"
                   alt="CSS"
-                  className="soc-ico"
+                  className="skill-icon"
                 />
                 <img
                   src="/portfolio/img/skills/bootstrap.png"
                   alt="Bootstrap"
-                  className="soc-ico"
+                  className="skill-icon"
                 />
                 <img
                   src="/portfolio/img/skills/sass.png"
                   alt="Saas"
-                  className="soc-ico"
+                  className="skill-icon"
                 />
                 <img
                   src="/portfolio/img/skills/js.png"
                   alt="JavaScript"
-                  className="soc-ico"
+                  className="skill-icon"
                 />
                 <img
                   src="/portfolio/img/skills/react.png"
                   alt="React"
-                  className="soc-ico"
+                  className="skill-icon"
                 />
                 <img
                   src="/portfolio/img/skills/git.png"
                   alt="Git"
-                  className="soc-ico"
+                  className="skill-icon"
                 />
                 <img
                   src="/portfolio/img/skills/wordpress.png"
                   alt="Wordpress"
-                  className="soc-ico"
+                  className="skill-icon"
                 />
               </div>
             </div>

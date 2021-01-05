@@ -11,8 +11,8 @@ export default function Birtije() {
           <Col>
             <h5>BIRTIJE.COM</h5>
             <p>
-              Birtije projekat je moj samostalni projekat. Sajt se sastoji iz
-              tri dela: O kafanama, gde je planirano da se prikazuju tekstovi o
+              Birtije.com su moj samostalni projekat. Sajt se sastoji iz tri
+              dela: O kafanama, gde je planirano da se prikazuju tekstovi o
               starim kafanama, unutar tog dela možete naći neke zabavne sadržaje
               kao što su citati o kafanama, pesme i zdravice. Drugi deo posvećen
               je predstavljanju Beogradskih kafana i treći čini žiri koji će
