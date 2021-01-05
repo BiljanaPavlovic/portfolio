@@ -30,9 +30,9 @@ export default function Experience() {
               individualnom ukusu. Takođe, kada su kupovali knjige za poklon
               zajednički smo se trudili da pronađemo onu koja će najviše
               odgovarati. Osim rada sa kupcima posao je obuhvatao i vođenje
-              evidencija o pazaru i različitim administrativnim procedurama, kao
-              i slanje knjige kupcima koji su ih naručivali preko internet
-              prodavnice, kao i fakturisanje tih porudžbina.{" "}
+              evidencija administrativnim i finansijskim tokovima, kao i slanje
+              knjige kupcima koji su ih naručivali preko internet prodavnice,
+              kao i fakturisanje tih porudžbina.{" "}
             </p>
           </Col>
           <Col sm>
@@ -48,10 +48,10 @@ export default function Experience() {
             <p>
               Bila sam Bibliotekar preko programa BGpraksa u organizaciji
               univerzitetskog Centra za razvoj karijere u trajanju od tri
-              meseca. U biblioteci sam zaduživala i razduživala korisnike i
-              pisala dnevne i mesečne izveštaje. Takođe sam imala veliki broj
+              meseca. U biblioteci sam brinula o bibliotičkom fondu i pisala
+              dnevne i mesečne izveštaje. Biblioteku je posećivao veliki broj
               čitalaca različitih uzrasta sa kojima sam pronalazila knjige uz
-              koje će uživati bilo da su to najmlađi čitaoci koji tek ulaze u
+              koje će uživati, bilo da su to najmlađi čitaoci koji tek ulaze u
               svet književnosti ili najstariji koji žele da uz lepu priču
               prekrate vreme.
             </p>
@@ -69,13 +69,14 @@ export default function Experience() {
               svezasvadbu.com - Urednik sadržaja (2017)
             </a>
             <p>
-              Sve za svadbu je sajt za koji sam radila kao urednik sadržaja, tom
-              prilikom sam se prvi put upoznala sa radom na sajtu, mada na mnogo
-              drugačiji način. Za ovaj sajt sam pisala tekstove o savetima,
-              običajima i zanimljivostima vezanim za organizaciju svadbe. Takođe
-              sam pronalazila odgovarajuće fotografije i sve to unosila na sajt
-              preko CMS platforme Avokado. Na tom poslu sam se upoznala sa
-              osnovama SEO optimizacije sajta.{" "}
+              Sve za svadbu je sajt koji mlandencima pruža pomoć u organizaciji
+              najlepšeg događaja njihovih života. Moja pozicija bila je urednik
+              sadržaja, tu sam kreirala tekstualni i vizuelni identitet sajta.
+              Za ovaj sajt sam pisala tekstove o savetima, običajima i
+              zanimljivostima vezanim za organizaciju svadbe i optimizovala ih
+              po principa SEO preporuka. Takođe sam pronalazila odgovarajuće
+              fotografije i sve to unosila na sajt preko CMS platforme Avokado.
+              Osim toga sam vodila i profile na društvenim mrežama organizacije.
             </p>
           </Col>
           <Col>

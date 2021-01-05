@@ -139,15 +139,15 @@ export default function Education() {
             </a>
             <p>
               Apsolvent sam srpske književnosti na Filološkom fakultetu, tokom
-              studija sam proučavala književnost iz različitih umetničke perioda
-              srpske i opšte književnosti. Takođe, veliki deo ispita se odnosio
-              na metodiku odnosno pripremao nas je za pedagoški rad. Jedan od
-              predmeta se bavio i internetom u nastavi književnosti. Na ovom
-              predmetu smo se najviše bavili procenjivanju validnih izvora na
-              internetu kao i kako objasniti učenicima kako da procene pouzdane
-              informacije na različitim sajtovima. Drugi prioritet je bio da
-              osmislimo načine za uvođenje interneta u nastavu književnosti kao
-              i prezentovanje srpske književnosti na internetu. U sklopu
+              studija sam proučavala raličite umetničke periode srpske i opšte
+              književnosti. Jedan od predmeta se bavio i internetom u nastavi
+              književnosti. Na ovom predmetu smo se bavili procenjivanjem
+              validnih izvora na internetu. Drugi prioritet je bio da osmislimo
+              načine za uvođenje interneta u nastavu književnosti. Još jedan
+              cilj ovog predmeta bio je da srpsku književnost prezentujemo na
+              internetu da bismo aktuelizovali i skrajnuta, a kvalitetna dela.
+              Kako na fakultetu ne postoje udžbenici, učili smo iz naučne
+              literature i navikli da konsultujemo mnoštvo izvora. U sklopu
               metodičkih predmeta sam obavila i stručnu praksu u oš "Filip
               Filipović"
             </p>
@@ -170,11 +170,10 @@ export default function Education() {
               učeničkih kompanija. Pisali smo biznis planove za osnivanje
               preduzeća i proširenja preduzeća na neku novu delatnost.
               Sprovodili smo virtuelno reklamiranje preduzeća. Koristili smo
-              dosta programa koji nam olakšavaju rad u kancelariji. Excel na
-              srednje-naprednom nivou, pravili smo puno prezentacija u Power
-              Pointu, kao i prve verzije sajtova u Publisher-u. Takođe, tokom
-              školovanja sam učestvovala u osnivanju školskog časopisa "Stav"
-              koji i dalje izlazi.
+              dosta programa koji nam olakšavaju rad u kancelariji. Excel,
+              pravili smo puno prezentacija u Power Pointu, kao i prve verzije
+              sajtova u Publisher-u. Takođe, tokom školovanja sam učestvovala u
+              osnivanju školskog časopisa "Stav" koji i dalje izlazi.
             </p>
           </Col>
         </Row>

@@ -24,10 +24,11 @@ export default function Profile() {
                 Ranije sam studirala književnost i radila različite
                 administrativne poslove. Odlučila sam se za prekvalifikaciju jer
                 sam tokom rada na pisanju tekstova za jedan sajt zavolela Web i
-                poželela da mogu i ja da napravim sajt i smatram da bi mi posao
-                u IT struci pružio mogućnost da ispoljim svoj pun potencijal i
-                iskažem svoju kreativnost. Želim da se bavim front-end
-                programiranjem i činim svet boljim mestom.{" "}
+                poželela da naučim da kreiram sajtove, ne samo kao kreativac već
+                i sa tehničke strane. Smatram da bi mi posao u IT struci pružio
+                mogućnost da ispoljim svoj pun potencijal i iskažem svoju
+                kreativnost. Želim da se bavim front-end programiranjem i činim
+                svet boljim mestom.{" "}
                 <span role="img" aria-label="smajli">
                   &#128187;
                 </span>

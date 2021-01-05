@@ -13,12 +13,11 @@ export default function Birtije() {
             <p>
               Birtije projekat je moj samostalni projekat. Sajt se sastoji iz
               tri dela: O kafanama, gde je planirano da se prikazuju tekstovi o
-              starim kafanama, zatim unutar tog dela možete naći neke zabavne
-              sadržaje kao što su citati o kafanama, pesme i zdravice. Drugi deo
-              posvećen je predstavljanju Beogradskih kafana koje rade i treći
-              čini žiri koji će ocenjivati te kafane. Korisnici će moći da daju
-              pluseve i minuse recenzijama žirija i da ostavljaju svoje
-              komentare koji će takođe moći da se ocenjuju.
+              starim kafanama, unutar tog dela možete naći neke zabavne sadržaje
+              kao što su citati o kafanama, pesme i zdravice. Drugi deo posvećen
+              je predstavljanju Beogradskih kafana i treći čini žiri koji će
+              ocenjivati te kafane. Korisnici će moći da ostave svoj komentar i
+              da ocene recenzije i komentare punom ili praznom kriglom.
             </p>
             <p>
               Sajt je napravljen u Reactu, za dizajn sam koristila
