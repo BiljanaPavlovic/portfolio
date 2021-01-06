@@ -1,5 +1,5 @@
 import React from "react";
-
+import NavDropdown from "react-bootstrap/NavDropdown";
 import { Link } from "react-router-dom";
 
 export default function Navigation() {
@@ -15,22 +15,43 @@ export default function Navigation() {
         />{" "}
         Biljana Pavlović
       </Link>
+      <NavDropdown title="Projekti" id="nav-dropdown">
+        <NavDropdown.Item className="dropdownItem" eventKey="4.1">
+          <Link to="/projects">
+            <li>Svi projekti</li>
+          </Link>
+        </NavDropdown.Item>
+        <NavDropdown.Divider />
 
-      <Link to="/projects">
-        <li>Projekti</li>
-      </Link>
-      <Link to="/groupProjects">
-        <li>Grupni projekti</li>
-      </Link>
-      <Link to="/react">
-        <li>React</li>
-      </Link>
-      <Link to="/js">
-        <li>JS</li>
-      </Link>
-      <Link to="/landingPages">
-        <li>Landing pages</li>
-      </Link>
+        <NavDropdown.Item className="dropdownItem" eventKey="4.1">
+          <Link to="/bigProjects">
+            <li>Samostalni projekti</li>
+          </Link>
+        </NavDropdown.Item>
+        <NavDropdown.Item className="dropdownItem" eventKey="4.1">
+          <Link to="/groupProjects">
+            <li>Grupni projekti</li>
+          </Link>
+        </NavDropdown.Item>
+        <NavDropdown.Item className="dropdownItem" eventKey="4.2">
+          {" "}
+          <Link to="/react">
+            <li>React</li>
+          </Link>
+        </NavDropdown.Item>
+        <NavDropdown.Item className="dropdownItem" eventKey="4.3">
+          {" "}
+          <Link to="/js">
+            <li>JS</li>
+          </Link>
+        </NavDropdown.Item>
+        <NavDropdown.Item className="dropdownItem" eventKey="4.4">
+          <Link to="/landingPages">
+            <li>Landing pages</li>
+          </Link>
+        </NavDropdown.Item>
+      </NavDropdown>
+
       <Link to="/education">
         <li>Obrazovanje</li>
       </Link>

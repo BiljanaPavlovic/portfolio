@@ -17,27 +17,33 @@ p {
 }
 .navigation {
   display: grid;
-  grid-template-columns: auto auto auto auto auto auto auto auto;
+  grid-template-columns: auto auto auto auto;
   color: whitesmoke;
   background-color: black;
   list-style: none;
   position: fixed;
   width: 100%;
-  height: 50px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  height: 70px;
+
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 .navigation a {
   color: whitesmoke;
+  padding-top: 5px;
 }
 .navigation a:hover {
   background-color: whitesmoke;
   color: black;
 }
+.dropdownItem {
+  background-color: black;
+  padding: 3px;
+}
 .headline {
   font-size: 10vw;
-  margin: 10px;
-  padding: 35px;
+  margin: 15px;
+  padding: 45px;
 }
 .uvod {
   margin: 10px;
@@ -151,7 +157,7 @@ h5 {
   }
   .navigation {
     display: grid;
-    grid-template-columns: auto auto auto auto;
+    grid-template-columns: auto auto;
     height: 120px;
   }
   .headline {
