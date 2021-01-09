@@ -27,7 +27,7 @@ export default function JsProjects() {
                 </a>
               </div>
               <p>
-                Čestitka za Novu godinu koja sadrži i igricu zamišljeni broj,
+                Čestitka za Novu godinu koja sadrži i igricu "Zamišljeni broj",
                 korisnik pogađa broj koji je kompjuter zamislio i kalkulator gde
                 korisnik proverava rezultat računanja.
               </p>

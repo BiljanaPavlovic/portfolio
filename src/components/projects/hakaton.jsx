@@ -30,7 +30,7 @@ export default function Hakaton() {
               pomagati humanitarnim organizacijama da oglase svoje aktivnosti
               kako bi oni kojima je pomoć potrebna došli do nje. U daljem
               razvoju aplikacije je zamišljeno da će ona u budućnosti služiti i
-              kao mesto za pružanje psihološke pomoći ljudima korisnicima.
+              kao mesto za pružanje psihološke pomoći korisnicima.
             </p>
             <p>
               S obzirom na to da poznajemo različite tehnologije, dogovorile smo

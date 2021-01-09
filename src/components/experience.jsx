@@ -25,14 +25,14 @@ export default function Experience() {
               Delfi knjižare - Knjižar/Prodavac (2019)
             </a>
             <p>
-              U Delfi knjižari sam radila sa različitim ljudima kupcima knjiga,
-              trudila sam se da im pronađem knjigu koja će odgovarati njihovom
-              individualnom ukusu. Takođe, kada su kupovali knjige za poklon
-              zajednički smo se trudili da pronađemo onu koja će najviše
+              U Delfi knjižari sam radila sa različitim profilima ljubitelja
+              knjiga, trudila sam se da im pronađem knjigu koja će odgovarati
+              njihovom individualnom ukusu. Takođe, kada su kupovali knjige za
+              poklon zajednički smo se trudili da pronađemo onu koja će najviše
               odgovarati. Osim rada sa kupcima posao je obuhvatao i vođenje
-              evidencija administrativnim i finansijskim tokovima, kao i slanje
-              knjige kupcima koji su ih naručivali preko internet prodavnice,
-              kao i fakturisanje tih porudžbina.{" "}
+              evidencija o administrativnim i finansijskim tokovima, kao i
+              slanje knjige kupcima koji su ih naručivali preko internet
+              prodavnice, kao i fakturisanje tih porudžbina.{" "}
             </p>
           </Col>
           <Col sm>
@@ -43,12 +43,12 @@ export default function Experience() {
             />
             <br />
             <a href="https://www.bgb.rs/" target="_blanck">
-              Biblioteka grada Beograda - Bibliotekar{" "}
+              Biblioteka grada Beograda - Bibliotekar (2018)
             </a>
             <p>
-              Bila sam Bibliotekar preko programa BGpraksa u organizaciji
+              Bila sam bibliotekar preko programa BGpraksa u organizaciji
               univerzitetskog Centra za razvoj karijere u trajanju od tri
-              meseca. U biblioteci sam brinula o bibliotičkom fondu i pisala
+              meseca. U biblioteci sam brinula o bibliotečkom fondu i pisala
               dnevne i mesečne izveštaje. Biblioteku je posećivao veliki broj
               čitalaca različitih uzrasta sa kojima sam pronalazila knjige uz
               koje će uživati, bilo da su to najmlađi čitaoci koji tek ulaze u
@@ -74,7 +74,7 @@ export default function Experience() {
               sadržaja, tu sam kreirala tekstualni i vizuelni identitet sajta.
               Za ovaj sajt sam pisala tekstove o savetima, običajima i
               zanimljivostima vezanim za organizaciju svadbe i optimizovala ih
-              po principa SEO preporuka. Takođe sam pronalazila odgovarajuće
+              po principima SEO preporuka. Takođe sam pronalazila odgovarajuće
               fotografije i sve to unosila na sajt preko CMS platforme Avokado.
               Osim toga sam vodila i profile na društvenim mrežama organizacije.
             </p>
@@ -93,7 +93,7 @@ export default function Experience() {
               Agencija “Abc prevodi” pruža usluge usmenog i pismenog prevođenja
               tekstova, sa i bez overe sudskog tumača. Radila sam na poziciji
               projekt menadžera i moja zaduženja su bila da organizujem i pratim
-              izvođenje usluga prevođenja. Imala sam kontaka sa mnogim
+              izvođenje usluga prevođenja. Imala sam kontakte sa mnogim
               klijentima i fizičkim i pravnim licima, kao i sa prevodiocima i
               sudskim tumačima za različite jezike.
             </p>
@@ -109,15 +109,15 @@ export default function Experience() {
               href="https://www.facebook.com/PrevodiociSudskiTumaci/"
               target="_blanck"
             >
-              Hera consalting - Office manager (2017)
+              Hera consulting - Office manager (2017)
             </a>
             <p>
               Hera consulting je manja prevodilačka agencija gde sam radila na
               poziciji office managera i posao mi je bio da komuniciram sa
-              klijentima, uglavnom fizičkim licima, kojima je prevod potreban i
-              prevodiocima. Osim toga vodila sam sve evidencije za
-              funkcionisanje agencije, pripremala fakture i prikupljala
-              dokumenta za slanje knjigovodstvu.{" "}
+              klijentima, uglavnom fizičkim licima, kao i prevodiocima. Osim
+              toga vodila sam sve evidencije za funkcionisanje agencije,
+              pripremala fakture i prikupljala dokumenta za slanje
+              knjigovodstvu.{" "}
             </p>
           </Col>
         </Row>

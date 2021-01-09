@@ -14,12 +14,12 @@ export default function Staznam() {
               Ovaj sajt je zamišljen kao zbir raznih funkcionalnosti koje smo
               dodavali zajednički kao deo podrške jedni drugima nakon završenog
               kampa sa ciljem da uvežbamo i naučimo nove funkcionalnosti koje
-              nam React pruža. Osnovne kategorije su Arhiva raznih tekstova,
+              nam React pruža. Osnovne kategorije su arhiva raznih tekstova,
               forum korisnika, alati, igrice i playliste.
             </p>
             <p>
-              Moje zaduženje na ovom projektu je arhiva, kao i veći deo dizajna
-              sajta. Korišćene tehnologije su:
+              Moje zaduženje na ovom projektu je da napravim kategoriju arhiva,
+              kao i veći deo dizajna sajta. Korišćene tehnologije su:
             </p>
             <p>React.js za frontend,</p>
             <p>Node.js za backend, Mongo.db je korišćena baza,</p>

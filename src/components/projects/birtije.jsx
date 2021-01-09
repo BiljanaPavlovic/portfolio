@@ -15,7 +15,7 @@ export default function Birtije() {
               dela: O kafanama, gde je planirano da se prikazuju tekstovi o
               starim kafanama, unutar tog dela možete naći neke zabavne sadržaje
               kao što su citati o kafanama, pesme i zdravice. Drugi deo posvećen
-              je predstavljanju Beogradskih kafana i treći čini žiri koji će
+              je predstavljanju beogradskih kafana i treći čini žiri koji će
               ocenjivati te kafane. Korisnici će moći da ostave svoj komentar i
               da ocene recenzije i komentare punom ili praznom kriglom.
             </p>

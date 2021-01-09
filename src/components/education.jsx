@@ -29,7 +29,7 @@ export default function Education() {
             <Col>
               <p>Manuelno testiranje softvera</p>
               <p>
-                Manuelno testiranje kurs mi je pomogao da utvrdim na šta je sve
+                Kurs manuelnog testiranja mi je pomogao da utvrdim na šta je sve
                 važno obraćati pažnju prilikom provera rada sajta, kao i bliže
                 upoznavanje sa agilnim metodologijama koje se koriste u mnogim
                 IT kompanijama.
@@ -78,8 +78,9 @@ export default function Education() {
               <p>SEO</p>
               <p>
                 Ovaj kurs mi je dao pregled i tehničkih principa za postizanje
-                bolje pozicije na googlu za razliku od onih "kreativnih" vezanih
-                za pisanje samog teksta koje sam ranije primenjivala u radu.
+                bolje pozicije na Google pretraživaču za razliku od onih
+                "kreativnih" vezanih za pisanje samog teksta koje sam ranije
+                primenjivala u radu.
               </p>
               <div className="imgDiv">
                 <img
@@ -114,10 +115,10 @@ export default function Education() {
               ITBootcamp - Razvoj web stranice
             </a>
             <p>
-              Završila sam kurs Web Developmenta na ITBootcampu-u u organizaciji
+              Završila sam kurs Web Developmenta na ITBootcamp-u u organizaciji
               Divac fondacije. Na ovom kursu sam se prvi put susrela sa
               programiranjem i naučila jako puno. U procesu selekcije sam
-              naučila HTML i CSS samostalno uz izvore kojie su nam poslali kako
+              naučila HTML i CSS samostalno uz izvore koje su nam poslali kako
               bismo se kvalifikovali za učešće u programu. Na samom kursu smo
               počeli od osnova JavaScript-a, učili smo najviše kroz izradu
               različitih projekata, a zatim smo prešli na React i izradili
@@ -148,8 +149,8 @@ export default function Education() {
               internetu da bismo aktuelizovali i skrajnuta, a kvalitetna dela.
               Kako na fakultetu ne postoje udžbenici, učili smo iz naučne
               literature i navikli da konsultujemo mnoštvo izvora. U sklopu
-              metodičkih predmeta sam obavila i stručnu praksu u oš "Filip
-              Filipović"
+              metodičkih predmeta sam obavila i stručnu praksu u osnovnoj školi
+              "Filip Filipović"
             </p>
           </Col>
           <Col>

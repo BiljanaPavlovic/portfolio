@@ -13,22 +13,18 @@ export default function Profile() {
           <Col>
             <div className="uvod">
               <p className="intro">
-                Zdravo! Ja sam Biljana, završila sam proces prekvalifikacije na
-                kursu Razvoj Web stranice u organizaciji Divac fondacije 2019
-                godine. Od tada se samostalno usavršavam i trudim se da naučim
-                što više korisnih Web tehnologija. Završila sam i neke online
-                kurseve, odgledala mnoštvo tutorijala i napravila nekoliko
-                projekata koje možete pogledati u nastavku.{" "}
+                Zdravo! Ja sam Biljana, front-end developer. Već godinu dana se
+                bavim web developmentom, iza sebe imam projekte koje možete
+                pogledati u nastavku. Stalno se usavršavam gledajući tutorijale
+                i pohađajući kurseve. Izdvojila bih kurs Razvoj Web stranice na
+                ITBootcamp-u, u organizaciji Divac fondacije, koji sam završila
+                u decembru 2019. godine.
               </p>
               <p>
-                Ranije sam studirala književnost i radila različite
-                administrativne poslove. Odlučila sam se za prekvalifikaciju jer
-                sam tokom rada na pisanju tekstova za jedan sajt zavolela Web i
-                poželela da naučim da kreiram sajtove, ne samo kao kreativac već
-                i sa tehničke strane. Smatram da bi mi posao u IT struci pružio
-                mogućnost da ispoljim svoj pun potencijal i iskažem svoju
-                kreativnost. Želim da se bavim front-end programiranjem i činim
-                svet boljim mestom.{" "}
+                Radoznala sam i volim da učim i stičem nove veštine.
+                Organizovana sam i posvećeno obavljam zadatke koji su mi
+                dodeljeni i trudim se da ih uvek uradim najbolje što mogu i
+                ispoštujem sve zadate rokove.
                 <span role="img" aria-label="smajli">
                   &#128187;
                 </span>

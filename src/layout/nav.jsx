@@ -56,7 +56,7 @@ export default function Navigation() {
         <li>Obrazovanje</li>
       </Link>
       <Link to="/experience">
-        <li>Iskukstvo</li>
+        <li>Iskustvo</li>
       </Link>
     </div>
   );

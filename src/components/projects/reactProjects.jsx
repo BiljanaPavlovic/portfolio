@@ -194,7 +194,7 @@ export default function ReactProjects() {
               </div>
               <p>
                 Ovo je završni projekat na ITBootcamp-u, korisnik ima mogućnost
-                registracija, logovanja, razmene poruka i izlistavanje svojih
+                registracije, logovanja, razmene poruka i izlistavanja svojih
                 poruka kao i profil ulogovanog korisnika.
               </p>
               <p>Korišćene tehnologije: React, CSS, API</p>
