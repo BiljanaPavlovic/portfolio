@@ -10,6 +10,48 @@ export default function ReactProjects() {
         <h3>React projekti</h3>
 
         <Row>
+        <Col>
+            <div className="project-small">
+              <h5>Marvel API Challange</h5>
+
+              <div className="imgDiv">
+                <a
+                  href="https://biljanapavlovic.github.io/MarvelApiChallenge/"
+                  target="_blanc"
+                >
+                  <img
+                    src="/portfolio/img/18.png"
+                    alt="project-img"
+                    className="project-img-lp"
+                  />
+                </a>
+              </div>
+              <p>
+                Ova aplikacija povlači podatke Marvelovim junacima, omogućava pretragu po imenu junaka i njigovo čuvanje, kako bi korisnik mogao da vidi sačuvane i posle zatvaranje stranice, takodje može da očisti svoje skladište.
+              </p>
+              <p>Korišćene tehnologije: React, CSS, API</p>
+              <a
+                href="https://github.com/BiljanaPavlovic/MarvelApiChallenge"
+                target="_blanc"
+              >
+                <img
+                  src="/portfolio/img/soc-ico/code.png"
+                  alt="project-img"
+                  className="code-ico"
+                />
+              </a>
+              <a
+                href="https://biljanapavlovic.github.io/MarvelApiChallenge/"
+                target="_blanc"
+              >
+                <img
+                  src="/portfolio/img/soc-ico/Live.png"
+                  alt="project-img"
+                  className="code-ico"
+                />
+              </a>
+            </div>
+          </Col>
           <Col>
             <div className="project-small">
               <h5>SpaceX</h5>
