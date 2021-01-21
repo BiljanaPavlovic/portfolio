@@ -1,16 +1,17 @@
+/** @format */
+
 import React from "react";
-import Birtije from "./projects/birtije";
 import LandingPages from "./projects/landingPages";
 import JsProjects from "./projects/jsProjects";
 import GroupProjects from "./groupProjects";
 import ReactProjects from "./projects/reactProjects";
+import SamostalniProjekti from "./samostalniProjekti";
 
 export default function Projects() {
   return (
     <div>
-      <h2 className="second-title">Samostalni projekti</h2>
+      <SamostalniProjekti />
 
-      <Birtije />
       <hr />
       <GroupProjects />
       <hr />

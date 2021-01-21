@@ -1,3 +1,5 @@
+/** @format */
+
 import React from "react";
 import Projects from "../components/projects";
 import Education from "../components/education";
@@ -8,7 +10,7 @@ import GroupProjects from "../components/groupProjects";
 import ReactProjects from "../components/projects/reactProjects";
 import JsProjects from "../components/projects/jsProjects";
 import LandingPages from "../components/projects/landingPages";
-import Birtije from "../components/projects/birtije";
+import SamostalniProjekti from "../components/samostalniProjekti";
 
 export default function Content() {
   return (
@@ -33,7 +35,7 @@ export default function Content() {
         <Route path="/education" component={Education} />
         <Route path="/experience" component={Experience} />
         <Route path="/projects" component={Projects} />
-        <Route path="/bigProjects" component={Birtije} />
+        <Route path="/bigProjects" component={SamostalniProjekti} />
         <Route path="/groupProjects" component={GroupProjects} />
         <Route path="/react" component={ReactProjects} />
         <Route path="/js" component={JsProjects} />
