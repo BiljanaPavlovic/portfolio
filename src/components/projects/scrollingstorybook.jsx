@@ -17,7 +17,7 @@ export default function Scrollingstorybook() {
                 target="_blanc"
               >
                 <video
-                  src="/portfolio/img/video.mp4"
+                  src="/portfolio/img/scrollingbook.mp4"
                   autoPlay
                   muted
                   loop
