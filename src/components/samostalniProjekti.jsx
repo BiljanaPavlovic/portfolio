@@ -1,9 +1,9 @@
 /** @format */
 
 import React from "react";
-import Birtije from "./projects/birtije";
-import MusicBox from "./projects/musicBox";
-import Scrollingstorybook from "./projects/scrollingstorybook";
+import Birtije from "./projects/reactProjects/birtije";
+import MusicBox from "./projects/reactProjects/musicBox";
+import Scrollingstorybook from "./projects/reactProjects/scrollingstorybook";
 
 export default function SamostalniProjekti() {
   return (

@@ -1,57 +1,15 @@
+/** @format */
+
 import React from "react";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 
-export default function LandingPages() {
+export default function LpTutorial() {
   return (
-    <div className="landingPages">
+    <div>
       <Container>
-        <h3>Landing Pages</h3>
         <Row>
-          <Col>
-            <div className="project-small">
-              <h5>CONNECT THE WORLD</h5>
-
-              <div className="imgDiv">
-                <a
-                  href="https://biljanapavlovic.github.io/connect-to-the-world/"
-                  target="_blanc"
-                >
-                  <img
-                    src="/portfolio/img/6.png"
-                    alt="project-img"
-                    className="project-img-lp"
-                  />
-                </a>
-              </div>
-              <p>
-                Stranica agencije za putovanja, kod je pisan po dobijenom
-                prototipu dizajna.
-              </p>
-              <p>Korišćene tehnologije: HTML, SCSS, Grid</p>
-              <a
-                href="https://github.com/BiljanaPavlovic/connect-to-the-world"
-                target="_blanc"
-              >
-                <img
-                  src="/portfolio/img/soc-ico/code.png"
-                  alt="project-img"
-                  className="code-ico"
-                />
-              </a>
-              <a
-                href="https://biljanapavlovic.github.io/connect-to-the-world/"
-                target="_blanc"
-              >
-                <img
-                  src="/portfolio/img/soc-ico/Live.png"
-                  alt="project-img"
-                  className="code-ico"
-                />
-              </a>
-            </div>
-          </Col>
           <Col>
             <div className="project-small">
               <h5>Digitalna Agencija</h5>
@@ -95,8 +53,7 @@ export default function LandingPages() {
               </a>
             </div>
           </Col>
-        </Row>
-        <Row>
+
           <Col>
             <div className="project-small">
               <h5>Shoot For The Stars!</h5>
@@ -140,6 +97,8 @@ export default function LandingPages() {
               </a>
             </div>
           </Col>
+        </Row>
+        <Row>
           <Col>
             <div className="project-small">
               <h5>Hello World!</h5>
@@ -183,6 +142,7 @@ export default function LandingPages() {
               </a>
             </div>
           </Col>
+
           <Col>
             <div className="project-small">
               <h5>Web Design Bootcamp</h5>

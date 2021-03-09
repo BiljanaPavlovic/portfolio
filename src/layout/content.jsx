@@ -7,10 +7,10 @@ import Experience from "../components/experience";
 import Button from "react-bootstrap/Button";
 import { Switch, Route, Link } from "react-router-dom";
 import GroupProjects from "../components/groupProjects";
-import ReactProjects from "../components/projects/reactProjects";
-import JsProjects from "../components/projects/jsProjects";
-import LandingPages from "../components/projects/landingPages";
+import ReactProjects from "../components/projects/reactProjects/reactProjects";
+import JsProjects from "../components/projects/javaScriptProjects/jsProjects";
 import SamostalniProjekti from "../components/samostalniProjekti";
+import LandingPages from "../components/projects/landingPages/landingPages";
 
 export default function Content() {
   return (

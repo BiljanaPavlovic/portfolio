@@ -1,10 +1,10 @@
 /** @format */
 
 import React from "react";
-import LandingPages from "./projects/landingPages";
-import JsProjects from "./projects/jsProjects";
+import LandingPages from "./projects/landingPages/landingPages";
+import JsProjects from "./projects/javaScriptProjects/jsProjects";
 import GroupProjects from "./groupProjects";
-import ReactProjects from "./projects/reactProjects";
+import ReactProjects from "./projects/reactProjects/reactProjects";
 import SamostalniProjekti from "./samostalniProjekti";
 
 export default function Projects() {
