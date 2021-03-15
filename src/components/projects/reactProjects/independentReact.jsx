@@ -10,6 +10,50 @@ export default function IndependentReact() {
         <Row>
           <Col>
             <div className="project-small">
+              <h5>Čista kuća</h5>
+
+              <div className="imgDiv">
+                <a
+                  href="https://biljanapavlovic.github.io/cistaKuca/"
+                  target="_blanc"
+                >
+                  <img
+                    src="/portfolio/img/22.png"
+                    alt="project-img"
+                    className="project-img-lp"
+                  />
+                </a>
+              </div>
+              <p>
+                Ova aplikacija služi za slanje zahteva i izračunavanje cene
+                čišćenja kuće i poslovnog prostora, kao i za slanje prijave za
+                posao za one koji žele da se bavi čišćenjem.
+              </p>
+              <p>Korišćene tehnologije: React, CSS</p>
+              <a
+                href="https://github.com/BiljanaPavlovic/cistaKuca"
+                target="_blanc"
+              >
+                <img
+                  src="/portfolio/img/soc-ico/code.png"
+                  alt="project-img"
+                  className="code-ico"
+                />
+              </a>
+              <a
+                href="https://biljanapavlovic.github.io/cistaKuca/"
+                target="_blanc"
+              >
+                <img
+                  src="/portfolio/img/soc-ico/Live.png"
+                  alt="project-img"
+                  className="code-ico"
+                />
+              </a>
+            </div>
+          </Col>
+          <Col>
+            <div className="project-small">
               <h5>RENT-A-CAR</h5>
 
               <div className="imgDiv">
@@ -43,6 +87,8 @@ export default function IndependentReact() {
               </a>
             </div>
           </Col>
+        </Row>
+        <Row>
           <Col>
             <div className="project-small">
               <h5>Marvel API Challange</h5>
@@ -88,8 +134,7 @@ export default function IndependentReact() {
               </a>
             </div>
           </Col>
-        </Row>
-        <Row>
+
           <Col>
             <div className="project-small">
               <h5>Tic-tac-toe</h5>
