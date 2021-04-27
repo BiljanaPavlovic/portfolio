@@ -13,13 +13,14 @@ export default function Projects() {
       <SamostalniProjekti />
 
       <hr />
-      <GroupProjects />
-      <hr />
+
       <ReactProjects />
       <hr />
       <JsProjects />
       <hr />
       <LandingPages />
+      <hr />
+      <GroupProjects />
       <hr />
     </div>
   );

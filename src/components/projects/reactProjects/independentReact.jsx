@@ -10,28 +10,37 @@ export default function IndependentReact() {
         <Row>
           <Col>
             <div className="project-small">
-              <h5>Čista kuća</h5>
+              <h5>Music Box</h5>
 
               <div className="imgDiv">
                 <a
-                  href="https://biljanapavlovic.github.io/cistaKuca/"
+                  href="https://biljanapavlovic.github.io/Synth/"
                   target="_blanc"
                 >
-                  <img
-                    src="/portfolio/img/22.png"
-                    alt="project-img"
+                  <video
+                    src="/portfolio/img/musicbox.mp4"
+                    autoPlay
+                    muted
+                    loop
                     className="project-img-lp"
                   />
                 </a>
               </div>
               <p>
-                Ova aplikacija služi za slanje zahteva i izračunavanje cene
-                čišćenja kuće i poslovnog prostora, kao i za slanje prijave za
-                posao za one koji žele da se bavi čišćenjem.
+                Music Box je single-page aplikacija napravljena kao zadatak za
+                Mintbeans hakaton. Na ovoj stranici sam rekonstruisala dečiju
+                igračku koju je moj bratanac imao kad je bio beba. Bila je jako
+                glasna i iritantna, ali ju je on obožavao, pa sam odlučila da je
+                napravim u ovom obliku.
               </p>
-              <p>Korišćene tehnologije: React, CSS</p>
+              <p>
+                Sajt je napravljen u Reactu, za dizajn sam koristila CSS sa
+                CSS-ovim animacijama, tonovi koji se mogu odsvirati uvedeni su
+                iz tone.js biblioteke, zvuci vozila i životinja skinuti su sa
+                Vikipedije.
+              </p>
               <a
-                href="https://github.com/BiljanaPavlovic/cistaKuca"
+                href="https://github.com/BiljanaPavlovic/Synth"
                 target="_blanc"
               >
                 <img
@@ -41,7 +50,7 @@ export default function IndependentReact() {
                 />
               </a>
               <a
-                href="https://biljanapavlovic.github.io/cistaKuca/"
+                href="https://biljanapavlovic.github.io/Synth/"
                 target="_blanc"
               >
                 <img
@@ -52,43 +61,7 @@ export default function IndependentReact() {
               </a>
             </div>
           </Col>
-          <Col>
-            <div className="project-small">
-              <h5>RENT-A-CAR</h5>
 
-              <div className="imgDiv">
-                <a
-                  href="https://github.com/BiljanaPavlovic/rent-a-car"
-                  target="_blanc"
-                >
-                  <img
-                    src="/portfolio/img/20.png"
-                    alt="project-img"
-                    className="project-img-lp"
-                  />
-                </a>
-              </div>
-              <p>
-                Ova aplikacija povlači podatke Marvelovim junacima, omogućava
-                pretragu po imenu junaka i njigovo čuvanje, kako bi korisnik
-                mogao da vidi sačuvane i posle zatvaranje stranice, takodje može
-                da očisti svoje skladište.
-              </p>
-              <p>Korišćene tehnologije: React, CSS, API</p>
-              <a
-                href="https://github.com/BiljanaPavlovic/rent-a-car"
-                target="_blanc"
-              >
-                <img
-                  src="/portfolio/img/soc-ico/code.png"
-                  alt="project-img"
-                  className="code-ico"
-                />
-              </a>
-            </div>
-          </Col>
-        </Row>
-        <Row>
           <Col>
             <div className="project-small">
               <h5>Marvel API Challange</h5>
@@ -134,7 +107,43 @@ export default function IndependentReact() {
               </a>
             </div>
           </Col>
+        </Row>
+        <Row>
+          <Col>
+            <div className="project-small">
+              <h5>RENT-A-CAR</h5>
 
+              <div className="imgDiv">
+                <a
+                  href="https://github.com/BiljanaPavlovic/rent-a-car"
+                  target="_blanc"
+                >
+                  <img
+                    src="/portfolio/img/20.png"
+                    alt="project-img"
+                    className="project-img-lp"
+                  />
+                </a>
+              </div>
+              <p>
+                Ova aplikacija povlači podatke Marvelovim junacima, omogućava
+                pretragu po imenu junaka i njigovo čuvanje, kako bi korisnik
+                mogao da vidi sačuvane i posle zatvaranje stranice, takodje može
+                da očisti svoje skladište.
+              </p>
+              <p>Korišćene tehnologije: React, CSS, API</p>
+              <a
+                href="https://github.com/BiljanaPavlovic/rent-a-car"
+                target="_blanc"
+              >
+                <img
+                  src="/portfolio/img/soc-ico/code.png"
+                  alt="project-img"
+                  className="code-ico"
+                />
+              </a>
+            </div>
+          </Col>
           <Col>
             <div className="project-small">
               <h5>Tic-tac-toe</h5>
